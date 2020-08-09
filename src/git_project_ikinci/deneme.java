@@ -8,6 +8,7 @@ public class deneme {
 			System.out.println("ikinci satiri degistirdim");
 			System.out.println("gitHub'dan yazdigim satir");
 			System.out.println("Mahir bulut");
+			System.out.println("Bulut cakisma");
 
 	}
 

@@ -8,12 +8,7 @@ public class deneme {
 			System.out.println("ikinci satiri degistirdim");
 			System.out.println("gitHub'dan yazdigim satir");
 			System.out.println("Mahir bulut");
-<<<<<<< HEAD
 			System.out.println("Bulut cakisma");
-=======
-                        System.out.println("cakismayalim pls");
-		     
->>>>>>> refs/remotes/origin/master
 
 	}
 

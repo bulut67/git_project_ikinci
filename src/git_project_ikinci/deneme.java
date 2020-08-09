@@ -6,6 +6,8 @@ public class deneme {
 
 			System.out.println("Ikinci git projem.");
 			System.out.println("ikinci satiri degistirdim");
+			System.out.println("gitHub'dan yazdigim satir");
+
 	}
 
 }
